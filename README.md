@@ -4,6 +4,6 @@ NPM     : 2206829206
 
 Kelas   : PBP D
 
-Hobi    : Tidur, musik
+Hobi    : Tidur
 
 Jurusan : Ilmu Komputer
