@@ -114,7 +114,7 @@ def delete_product(request, id):
     product = Product.objects.get(pk = id)
     # Hapus data
     product.delete()
-    # Kembali ke halaman awal
+    # Kembali ke halaman awal.
     return HttpResponseRedirect(reverse('main:show_main'))
 
 def get_product_json(request):
